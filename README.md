@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm tuonhomas95187
 
-<!--
-**tuonhomas95187/tuonhomas95187** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 🏸 💡 🎮 Always learning about tech reviews 🌍 🏸 💡 🎮
 
-Here are some ideas to get you started:
+## About Me
+🥋 🎱 A lover of automation 🥋 🎱
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🏒 🏄 🥋 🎱 Passionate about technical writing 🏒 🏄 🥋 🎱
+
+### Fun Facts
+🏓 🎨 🎽 Building the future with computer vision 🏓 🎨 🎽
+
+---
+🥊 🎯 🎯 🎮 🎱 Thanks for visiting my profile! 🎯 🏸 🛶 🎱 🎬
